@@ -15,7 +15,7 @@ Este projeto é um framework de testes automatizados que permite testar aplicaç
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/qa-automation-framework.git
+git clone https://github.com/Marquezbertin/qa-automation-framework
 cd qa-automation-framework
 ```
 
